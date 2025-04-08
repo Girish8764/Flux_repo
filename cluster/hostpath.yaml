@@ -24,6 +24,6 @@ spec:
       volumes:
       - name: web
         hostPath:
-          path: /girish
+          path: /girish1
           type: DirectoryOrCreate
 
