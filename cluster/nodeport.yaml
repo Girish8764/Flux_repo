@@ -4,6 +4,7 @@ metadata:
   labels:
     app: host-path
   name: newnode
+  namespace: flux-system
 spec:
   ports:
   - port: 82
