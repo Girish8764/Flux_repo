@@ -4,7 +4,7 @@ metadata:
   labels:
     app: host-path
   name: newnode
-  namespace: flux-system
+  namespace: dev-girish
 spec:
   ports:
   - port: 80
